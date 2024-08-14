@@ -1,0 +1,170 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Nielsen_1
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 05 00 00 00
+# 
+name: 2
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 0A 00 00 00
+# 
+name: 3
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 0F 00 00 00
+# 
+name: 4
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 14 00 00 00
+# 
+name: 5
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 19 00 00 00
+# 
+name: 6
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 1E 00 00 00
+# 
+name: 7
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 23 00 00 00
+# 
+name: 8
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 28 00 00 00
+# 
+name: 9
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 13 00 00 00
+# 
+name: 10
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 18 00 00 00
+# 
+name: 11
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 08 00 00 00
+# 
+name: 12
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 35 00 00 00
+# 
+name: A
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 2D 00 00 00
+# 
+name: B
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 32 00 00 00
+# 
+name: C
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 01 00 00 00
+# 
+name: D
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 06 00 00 00
+# 
+name: E
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 0B 00 00 00
+# 
+name: F
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 10 00 00 00
+# 
+name: G
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 15 00 00 00
+# 
+name: H
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 1A 00 00 00
+# 
+name: I
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 1F 00 00 00
+# 
+name: J
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 24 00 00 00
+# 
+name: K
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 29 00 00 00
+# 
+name: L
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 17 00 00 00
+# 
+name: Enter
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 3E 00 00 00
+# 
+name: Cancel
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 36 00 00 00
+# 
+name: Man
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 37 00 00 00
+# 
+name: Woman
+type: parsed
+protocol: RC5
+address: 07 00 00 00
+command: 3F 00 00 00
